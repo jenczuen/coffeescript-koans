@@ -1,4 +1,4 @@
-describe 'About Higher Order Functions', ->
+2describe 'About Higher Order Functions', ->
   it "should use 'for' for simple iteration", ->
     numbers = [3..0] # a reverse range
     msg = ''
